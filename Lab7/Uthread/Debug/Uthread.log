@@ -1,0 +1,7 @@
+﻿  uthread.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(381,30): error C2375: “unlink”: 重定义；不同的链接
+D:\操作系统\os课程设计\Lab7\Uthread\user.h(16): message : 参见“unlink”的声明
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(828,37): error C2371: “fprintf”: 重定义；不同的基类型
+D:\操作系统\os课程设计\Lab7\Uthread\user.h(33): message : 参见“fprintf”的声明
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(948,37): error C2371: “printf”: 重定义；不同的基类型
+D:\操作系统\os课程设计\Lab7\Uthread\user.h(34): message : 参见“printf”的声明
